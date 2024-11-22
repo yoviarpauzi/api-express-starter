@@ -1,4 +1,4 @@
-# chat-js
+# api-express-starter
 
 To install dependencies:
 
